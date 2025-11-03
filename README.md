@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm F. Rabby</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rabby-XQ&label=Profile%20views&color=0e75b6&style=flat" alt="Rabby-XQ" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rabby-XQ&theme=" alt="Rabby-XQ" /></a> </p>
-
 - 🌱 I’m currently learning **Software Quality Assurance Testing**
 - 💬 Ask me about **HTML, CSS, API**
 - 📫 How to reach me **www.rabbi0110110@gmail.com**
