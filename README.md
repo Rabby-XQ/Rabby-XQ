@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /> -->
 <h1 align="center">Hi 👋, I'm F. Rabby</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rabby-XQ&label=Profile%20views&color=0e75b6&style=flat" alt="Rabby-XQ" /> </p>
 
-- 🌱 I’m currently learning **Software Quality Assurance Testing**
-- 💬 Ask me about **HTML, CSS, API**
-- 📫 How to reach me **www.rabbi0110110@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/Rabby-XQ**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1x5S6b2IdvNGCrrhWbwT6fTwxK5JKAMtK/view?usp=sharing**
+-  I’m currently learning **Software Quality Assurance Testing**
+-  Ask me about **HTML, CSS, API**
+-  How to reach me **www.rabbi0110110@gmail.com**
+-  All of my projects are available at **https://github.com/Rabby-XQ**
+-  Know about my experiences **https://drive.google.com/file/d/1x5S6b2IdvNGCrrhWbwT6fTwxK5JKAMtK/view?usp=sharing**
 <br>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fozly-rabby/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
