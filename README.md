@@ -7,6 +7,7 @@
 - 📫 How to reach me **www.rabbi0110110@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Rabby-XQ**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1x5S6b2IdvNGCrrhWbwT6fTwxK5JKAMtK/view?usp=sharing**
+<br>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fozly-rabby/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Rabby-XQ" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
