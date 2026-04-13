@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rabby-XQ&label=Profile%20views&color=0e75b6&style=flat" alt="Rabby-XQ" /> </p>
 
 -  I’m currently learning **Software Quality Assurance Testing**
--  Ask me about **HTML, CSS, API**
+-  Ask me about **Testing**
 -  How to reach me **www.rabbi0110110@gmail.com**
 -  All of my projects are available at **https://github.com/Rabby-XQ**
 -  Know about my experiences **https://drive.google.com/file/d/1x5S6b2IdvNGCrrhWbwT6fTwxK5JKAMtK/view?usp=sharing**
