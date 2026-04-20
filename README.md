@@ -119,8 +119,16 @@ contact    : www.rabbi0110110@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rabby-XQ&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Rabby-XQ&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6"
+    alt="GitHub profile trophies for Rabby-XQ"
+    width="95%"
+  />
+  <br/>
+  <a href="https://github-profile-trophy.vercel.app/?username=Rabby-XQ" target="_blank" rel="noopener noreferrer">Open trophy generator</a>
 </div>
+
+> ℹ️ Trophy cards are served by an external service and cached through GitHub's image proxy, so rendering can occasionally be delayed or temporarily unavailable due to upstream rate limits/outages.
 
 ---
 
