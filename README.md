@@ -95,16 +95,22 @@ contact    : www.rabbi0110110@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rabby-XQ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabby-XQ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rabby-XQ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabby-XQ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=Rabby-XQ&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabby-XQ&theme=tokyonight&hide_border=true" height="170"/>
+<br/><br/>
 
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabby-XQ&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabby-XQ&theme=tokyonight" width="95%"/>
 
 </div>
 
